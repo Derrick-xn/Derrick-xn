@@ -1,8 +1,11 @@
 ## Hi there 👋
-后端开发工程师，努力变得更好
+全栈开发，努力变得更好
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derrick-xn&count_private=true&show_icons=true&theme=radical)
+
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Derrick-xn&repo=github-readme-stats)
 <!--
 **Derrick-xn/Derrick-xn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
