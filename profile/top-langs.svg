@@ -1,0 +1,12 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="langsTitle langsDesc">
+  <title id="langsTitle">Top languages card placeholder</title>
+  <desc id="langsDesc">Placeholder card shown until GitHub Actions generates the top languages SVG.</desc>
+  <rect width="495" height="195" rx="12" fill="#FFFFFF"/>
+  <rect x="1" y="1" width="493" height="193" rx="11" stroke="#D0D7DE" stroke-width="2"/>
+  <circle cx="34" cy="34" r="8" fill="#0969DA"/>
+  <text x="54" y="40" fill="#1F2328" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Top Languages</text>
+  <text x="28" y="78" fill="#1F2328" font-family="Segoe UI, Arial, sans-serif" font-size="15">Generating local README card...</text>
+  <text x="28" y="106" fill="#57606A" font-family="Segoe UI, Arial, sans-serif" font-size="13">This placeholder will be replaced by GitHub Actions.</text>
+  <text x="28" y="128" fill="#57606A" font-family="Segoe UI, Arial, sans-serif" font-size="13">No external Vercel deployment is needed.</text>
+  <text x="28" y="160" fill="#6E7781" font-family="Segoe UI, Arial, sans-serif" font-size="12">The workflow writes fresh SVGs into profile/ on each update.</text>
+</svg>
